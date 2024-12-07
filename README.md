@@ -1,5 +1,8 @@
 # AI-Powered Tea Factory Management System for Enhanced Efficiency and Optimization
 
+# Git Repo
+https://github.com/GunawardaneKC/RP_Tea_Factory.git
+
 # System Overview 
 Sri Lanka's tea industry is a cornerstone of its economy, contributing significantly to export 
 revenue and employment. However, the industry faces several critical challenges that hinder its 
