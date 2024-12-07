@@ -33,4 +33,5 @@ profitability of the tea industry in Sri Lanka.
 
 # Aechitechtural Diagram 
 
+![rpd02](https://github.com/user-attachments/assets/cf51bf6b-b84e-43dc-a117-d66f304c6dda)
 
